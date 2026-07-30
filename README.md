@@ -62,7 +62,7 @@ The Sales & Revenue Analysis Dashboard helps businesses monitor and analyze thei
 
 ![Dashboard 2](Dashboard_Progress_2.png)
 
-![Final Dashboard](Dashboard_Final.png)
+![Final Dashboard](Dashboard_Progress_3.png)
 
 ## 📈 Business Insights
 
