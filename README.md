@@ -56,15 +56,13 @@ The Sales & Revenue Analysis Dashboard helps businesses monitor and analyze thei
 
 > Upload your dashboard screenshots and replace the filenames below with the correct names.
 
-```markdown
+## 📊 Dashboard Preview
+
 ![Dashboard 1](Dashboard_Progress_1.png)
 
 ![Dashboard 2](Dashboard_Progress_2.png)
 
 ![Final Dashboard](Dashboard_Final.png)
-```
-
----
 
 ## 📈 Business Insights
 
