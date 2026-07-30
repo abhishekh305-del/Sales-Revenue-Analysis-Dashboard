@@ -45,11 +45,13 @@ The Sales & Revenue Analysis Dashboard analyzes sales and revenue data using int
 
 ## Dashboard Preview
 
-![Dashboard Progress 1](Dashboard_Progress_1.png)
+## Dashboard Preview
 
-![Dashboard Progress 2](Dashboard_Progress_2.png)
+![Dashboard Progress 1](Screenshot 2026-07-30 205457.png)
 
-![Final Dashboard](Dashboard_Final.png)
+![Dashboard Progress 2](Screenshot 2026-07-30 205515.png)
+
+![Final Dashboard](Screenshot 2026-07-30 205537.png)
 
 ## Internship
 
