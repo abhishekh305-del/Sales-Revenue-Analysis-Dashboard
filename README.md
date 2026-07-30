@@ -41,6 +41,10 @@ The Sales & Revenue Analysis Dashboard analyzes sales and revenue data using int
 
 ## Dashboard Preview
 
+## Dashboard Preview
+
+## Dashboard Preview
+
 ![Dashboard Progress 1](Dashboard_Progress_1.png)
 
 ![Dashboard Progress 2](Dashboard_Progress_2.png)
